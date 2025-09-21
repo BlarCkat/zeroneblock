@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   title: "Zeroneblock",
   description: "Safe. Secure. Trusted. At the zeroth level.",
   icons: {
-    icon: '/logo.svg',
+    icon: '/logomark.svg',
   },
 };
 
